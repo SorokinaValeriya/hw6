@@ -10,3 +10,5 @@
 
 
 ## Часть 2
+1.
+![](https://raw.githubusercontent.com/SorokinaValeriya/hw6/master/question.PNG)
