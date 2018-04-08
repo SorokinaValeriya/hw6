@@ -12,3 +12,12 @@
 ## Часть 2
 1.
 ![](https://raw.githubusercontent.com/SorokinaValeriya/hw6/master/question.PNG)
+
+2.
+![](https://raw.githubusercontent.com/SorokinaValeriya/hw6/master/sink.PNG)
+### Оба слова (sink и drown) могут употребляться со словом voice: 
+#### sink voice
+#### drown voice
+### Однако с остальными словами они употребляются сепаратно:
+#### sink ship
+#### drown swimmer
